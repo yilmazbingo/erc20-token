@@ -1,0 +1,3 @@
+the array in Solidity programming: when we delete an element in an array, the element is not deleted but is replaced with a zero. For example, assume that we have
+an array myarray 1⁄4 [2 7 12], which is of length 3. Then we call a function that says to delete myarray[myarray.length.sub(1)]. Although we may expect that myarray 1⁄4 [2 7], we actually have the following array myarray 1⁄4 [2 7 0], and it would still be of length 3. There are cases in which we would like to delete or remove a token from the
+ownership of an address. In addition to delete tokens from owner array, we also need to rearrang the array.
