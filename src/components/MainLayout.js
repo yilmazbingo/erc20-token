@@ -73,7 +73,7 @@ const Main = (props) => {
           AIRDROP{" "}
           <Airdrop
             stakingBalance="50000000000000000000"
-            decentralBankContract={props.decentralBankContract}
+            // decentralBankContract={props.decentralBankContract}
           />
         </div>
       </div>
